@@ -16,7 +16,7 @@
 ### 🌟 About Me
 - 🌱 Currently exploring **Machine Learning, Deep Learning, NLP, Generative AI, and LLMs (Large Language Models)**.
 - 💬 **Ask me about**: Python, SQL, Data Visualization, Data Manipulation, Machine Learning, Deep Learning, NLP, GEN AI and LLMs.
-- 📫 **Email me at**: manjeetmahato62@gmail.com
+- 📫 **Email me at**: 
 - 🤝 **Connect with me on LinkedIn**: https://www.linkedin.com/in/manjeet-mahato-a374141b9/
 
 
